@@ -11,7 +11,6 @@ public static void main(String[] args) {
     int maior = 0;
     int soma = 0;
 
-
     int count = 0;
     do
     {

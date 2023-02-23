@@ -17,6 +17,5 @@ public class Tabuada {
         System.out.println(i + " x " + numero + " = " + i * numero);
         }
 
-
 }
 }

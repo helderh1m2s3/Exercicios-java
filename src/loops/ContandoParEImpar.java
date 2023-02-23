@@ -12,14 +12,12 @@ public class ContandoParEImpar {
         int quantidadePar = 0;
         int quantidadeImpar = 0;
 
-
         System.out.println("Por favor informe a quantidade de numeros!");
         quantidadeDeNumeros = scan.nextInt();
 
         int count = 0;
 
-    do
-    {
+    do{
         System.out.println("Por favor digite um numero!");
         numero = scan.nextInt();
         if (numero % 2 == 0) quantidadePar++;
